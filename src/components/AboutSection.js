@@ -28,7 +28,7 @@ export default function AboutSection() {
 
               {/* NFT Address and additional content can be added here */}
             </div>
-            <a href="https://www.pump.fun/" className="font-courier text-white bg-transparent border border-white py-2 px-4 rounded uppercase">
+            <a href="https://pump.fun/jpTad8QWunor9FzR1q66Ep2SVfMe1KyRz9YNXXfdAdi" className="font-courier text-white bg-transparent border border-white py-2 px-4 rounded uppercase">
               Buy now on Pump.fun
             </a>
           </div>
